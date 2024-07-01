@@ -20,34 +20,34 @@ Welcome to my Data Analyst Portfolio! This repository showcases a collection of 
 - **Technologies**: Python, Pandas, Numpy, Matplotlib and Seaborn
 - **Repository Link**: [Sales Prediction Project](https://github.com/IHBhatti/Sales-Prediction)
 
-### 2. Customer Segmentation
+### 2. Credit Card Fraud Detection
 
-- **Description**: Performed clustering analysis on customer data to identify distinct segments and understand customer behavior.
-- **Technologies**: Python, Pandas, Scikit-learn, Seaborn
-- **Repository Link**: [Customer Segmentation Project](link_to_project_folder)
+- **Description**: This project aims to build a machine learning model to identify fraudulent credit card transactions using a variety of classification techniques.
+- **Technologies**: Python, Pandas, Scikit-learn, Seaborn, Matplotlib, Imbalanced-learn
+- **Repository Link**: [Credit Card Fraud Detection Project](https://github.com/IHBhatti/Credit-Card-fraud-Detection)
 
-### 3. Fraud Detection
+### 3. Music Store Data Analysis using MYSQL
 
-- **Description**: Developed a machine learning model to detect fraudulent credit card transactions using a variety of classification techniques.
-- **Technologies**: Python, Pandas, Scikit-learn, Imbalanced-learn
-- **Repository Link**: [Fraud Detection Project](link_to_project_folder)
+- **Description**: This project involves the analysis of a music store's database using SQL. The purpose of this analysis is to gain insights.
+- **Technologies**: SQL(Structured Query Language)
+- **Repository Link**: [Fraud Detection Project](https://github.com/IHBhatti/SQl-Music-Store-Data-Analysis-Project)
 
-### 4. E-commerce Data Analysis
+### 4.Sales Data Analysis using Power BI
 
-- **Description**: Analyzed e-commerce transaction data to uncover trends and insights into customer purchasing patterns.
-- **Technologies**: SQL, Tableau
-- **Repository Link**: [E-commerce Data Analysis Project](link_to_project_folder)
+- **Description**: This project involves the analysis of sales data from Atliq Hardware Company. The goal is to derive insights into sales performance, customer behavior, product popularity, and other key metrics..
+- **Technologies**: SQL, Power BI
+- **Repository Link**: [Sales Data Analysis using Power BI](https://github.com/IHBhatti/Sales-Data-Analysis-PowerBI)
 
 ### 5. Healthcare Data Analysis
 
-- **Description**: Created an interactive Power BI dashboard to visualize healthcare data, including patient demographics, treatment outcomes, and resource utilization.
+- **Description**: Created an interactive Power BI dashboard to visualize healthcare data, including patient info accoriding to patient ID, Billing Information, Bed occupancy breakdown, overall feedback by doctor etc. .
 - **Technologies**: Power BI, Excel
-- **Repository Link**: [Healthcare Data Analysis Project](link_to_project_folder)
+- **Repository Link**: [Healthcare Data Analysis Project](https://github.com/IHBhatti/Healthcare-Data-Analysis)
 
 ## Skills Demonstrated
 
 - **Data Cleaning**: Handling missing values, outlier detection, and data normalization.
-- **Data Visualization**: Creating insightful visualizations using Matplotlib, Seaborn, Tableau, and Power BI.
+- **Data Visualization**: Creating insightful visualizations using Matplotlib, Seaborn, and Power BI.
 - **Exploratory Data Analysis (EDA)**: Identifying patterns, trends, and relationships in data.
 - **Machine Learning**: Building and evaluating predictive models using Scikit-learn.
 - **SQL**: Writing complex queries to extract and manipulate data from relational databases.
@@ -57,7 +57,7 @@ Welcome to my Data Analyst Portfolio! This repository showcases a collection of 
 
 - **Programming Languages**: Python, SQL
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn
-- **Data Visualization Tools**: Tableau, Power BI
+- **Data Visualization Tools**:Power BI
 - **Database Management**: PostgreSQL, MySQL
 - **Version Control**: Git, GitHub
 
