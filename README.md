@@ -16,9 +16,9 @@ Welcome to my Data Analyst Portfolio! This repository showcases a collection of 
 
 ### 1. Sales Prediction
 
-- **Description**: This project involves building a predictive model to forecast sales based on various features such as advertising spend, store location, and time of year.
-- **Technologies**: Python, Pandas, Scikit-learn, Matplotlib
-- **Repository Link**: [Sales Prediction Project](link_to_project_folder)
+- **Description**: This project analyzes the relationship between TV advertising expenditures and sales using a simple linear regression model..
+- **Technologies**: Python, Pandas, Numpy, Matplotlib and Seaborn
+- **Repository Link**: [Sales Prediction Project](https://github.com/IHBhatti/Sales-Prediction)
 
 ### 2. Customer Segmentation
 
