@@ -10,7 +10,6 @@ Welcome to my Data Analyst Portfolio! This repository showcases a collection of 
 - [Skills Demonstrated](#skills-demonstrated)
 - [Tools and Technologies](#tools-and-technologies)
 - [Getting Started](#getting-started)
-- [Contact](#contact)
 
 ## Projects
 
