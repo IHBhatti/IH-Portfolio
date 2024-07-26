@@ -42,6 +42,20 @@ Welcome to my Data Analyst Portfolio! This repository showcases a collection of 
 - **Description**: Created an interactive Power BI dashboard to visualize healthcare data, including patient info accoriding to patient ID, Billing Information, Bed occupancy breakdown, overall feedback by doctor etc. .
 - **Technologies**: Power BI, Excel
 - **Repository Link**: [Healthcare Data Analysis Project](https://github.com/IHBhatti/Healthcare-Data-Analysis)
+- 
+### 6. Super-Store-Sales-Dashboard
+
+- **Description**: Design a power BI dashboard to contribute to the success of business by applying data analysis techniques that drive strategic decision-making.By leveraging Power BI's capabilities, this dashboard provides an intuitive and interactive platform for visualizing and understanding key business metrics over time.
+- **Technologies**: Power BI, Power Query, DAX
+- **Repository Link**: [Super-Store-Sales-Dashboard](https://github.com/IHBhatti/Super-Store-Sales-Dashboard)
+
+### 6. HR Analytics Dashboard
+
+- **Description**: The HR Analytics Dashboard is a comprehensive tool designed to analyze and visualize employee attrition within an organization. The primary focus of this project is to provide valuable insights into the factors contributing to employee turnover, helping HR professionals and management make informed decisions to reduce the attrition rates and overall employee satisfaction.
+- **Technologies**: Power BI, Power Query, DAX
+- **Repository Link**: [HR Analytics Dashboard](https://github.com/IHBhatti/HR-ANALYTICS-DASHBOARD)
+
+
 
 ## Skills Demonstrated
 
