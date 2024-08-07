@@ -59,7 +59,7 @@ Welcome to my Data Analyst Portfolio! This repository showcases a collection of 
 
 - **Description**: This project aims to forecast gold prices using various time series analysis techniques. We utilize linear regression, naive forecasting, and Exponential Smoothing to predict future gold prices based on historical data. The project includes data loading, preprocessing, visualization, model building, and evaluation.
 - **Technologies**: Python
-- **Repository Link**: [HR Analytics Dashboard](https://github.com/IHBhatti/HR-ANALYTICS-DASHBOARD)
+- **Repository Link**: [Time Series Forecasting](https://github.com/IHBhatti/Time-Series-Forecasting)
 
 
 
