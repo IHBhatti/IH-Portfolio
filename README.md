@@ -54,6 +54,12 @@ Welcome to my Data Analyst Portfolio! This repository showcases a collection of 
 - **Description**: The HR Analytics Dashboard is a comprehensive tool designed to analyze and visualize employee attrition within an organization. The primary focus of this project is to provide valuable insights into the factors contributing to employee turnover, helping HR professionals and management make informed decisions to reduce the attrition rates and overall employee satisfaction.
 - **Technologies**: Power BI, Power Query, DAX
 - **Repository Link**: [HR Analytics Dashboard](https://github.com/IHBhatti/HR-ANALYTICS-DASHBOARD)
+  
+### 7. Time Series Forecasting 
+
+- **Description**: This project aims to forecast gold prices using various time series analysis techniques. We utilize linear regression, naive forecasting, and Exponential Smoothing to predict future gold prices based on historical data. The project includes data loading, preprocessing, visualization, model building, and evaluation.
+- **Technologies**: Python
+- **Repository Link**: [HR Analytics Dashboard](https://github.com/IHBhatti/HR-ANALYTICS-DASHBOARD)
 
 
 
