@@ -61,6 +61,12 @@ Welcome to my Data Analyst Portfolio! This repository showcases a collection of 
 - **Technologies**: Python
 - **Repository Link**: [Time Series Forecasting](https://github.com/IHBhatti/Time-Series-Forecasting)
 
+### 8. Bank Customer's Analysis 
+
+- **Description**: he goal of this project is to transform raw banking data into actionable insights. This was achieved through a series of steps, including data cleaning, transformation, and visualization. 
+- **Technologies**: Power BI, Excel
+- **Repository Link**: [Bank Customer's Analysis](https://github.com/IHBhatti/Bank-Customer-s-Analysis)
+
 
 
 ## Skills Demonstrated
