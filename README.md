@@ -66,8 +66,11 @@ Welcome to my Data Analyst Portfolio! This repository showcases a collection of 
 - **Description**: he goal of this project is to transform raw banking data into actionable insights. This was achieved through a series of steps, including data cleaning, transformation, and visualization. 
 - **Technologies**: Power BI, Excel
 - **Repository Link**: [Bank Customer's Analysis](https://github.com/IHBhatti/Bank-Customer-s-Analysis)
+### 9. Students Marks Prediction 
 
-
+- **Description**:This project focuses on predicting students' marks based on the number of study hours. Using data analysis techniques and a machine learning model, this project walks through the key steps of data cleaning, visualization, and prediction to provide insights into how study time influences academic performance.
+- **Technologies**: Python
+- **Repository Link**: [Students Marks Prediction](https://github.com/IHBhatti/Students-Marks-Prediction)
 
 ## Skills Demonstrated
 
