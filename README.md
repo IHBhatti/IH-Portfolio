@@ -72,6 +72,13 @@ Welcome to my Data Analyst Portfolio! This repository showcases a collection of 
 - **Technologies**: Python
 - **Repository Link**: [Students Marks Prediction](https://github.com/IHBhatti/Students-Marks-Prediction)
 
+- ### 10. Smoke Detection 
+
+- **Description**:This project performs a binary classification task using Logistic Regression to predict whether a smoke detector alarm should trigger based on sensor data. The analysis involves data preprocessing, feature scaling, model fitting, and evaluation using various metrics. The goal is to build an interpretable and effective model for detecting smoke.
+- **Technologies**: Python
+- **Repository Link**: [Smoke Detection](https://github.com/IHBhatti/Smoke-Detector)
+
+
 ## Skills Demonstrated
 
 - **Data Cleaning**: Handling missing values, outlier detection, and data normalization.
