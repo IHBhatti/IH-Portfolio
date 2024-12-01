@@ -78,6 +78,10 @@ Welcome to my Data Analyst Portfolio! This repository showcases a collection of 
 - **Technologies**: Python
 - **Repository Link**: [Smoke Detection](https://github.com/IHBhatti/Smoke-Detector)
 
+  ### 11. Movement Analysis Based on Social Media Sentiment
+- **Description**:This project demonstrates the process of data scraping, preprocessing, and predictive modeling to analyze stock movements based on sentiment analysis. 
+- **Technologies**: Python
+- **Repository Link**: [Stock Movement Analysis](https://github.com/IHBhatti/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment)
 
 ## Skills Demonstrated
 
